@@ -1,0 +1,136 @@
+introduction
+You wake up in a room with no recollection of the previous day. Where are you?
+
+starting room
+Master Bedroom
+
+room
+Master Bedroom
+An old master bedroom with delicate woodworking and a massive bed.
+Living Room, Bedroom Bathroom
+Alarm clock, Bed
+
+item
+Alarm clock
+An old alarm clock that seems to be broken. When I shake it, I can hear something rattling inside?
+False
+What do you want to use to open the alarm clock?
+~Screwdriver
+Gold Key
+
+item
+Gold Key
+Seems to be some old key, maybe I can use it to unlock something? I should probably pick this up...
+True
+
+item
+Bed
+I probably should go back to sleep, I still have no idea where I am...
+
+room
+Bedroom Bathroom
+An old nasty bathroom that I would like to leave...
+Master Bedroom
+Broken Mirror, Sink, Toilet
+
+item
+Broken Mirror
+Wow you're ugly, I think you actually just shattered the mirror, great job!
+
+item
+Sink
+I think I hear screams coming from through the pipes, that's probably not good...
+
+item
+Toilet
+Pretty nasty toilet, I don't think I want to touch it...
+False
+I'm not touching that toliet lid, but maybe there is something else I can look at?
+Tank
+Screwdriver
+
+item
+Screwdriver
+It's an old rusty screwdriver, maybe it could come in handy?
+True
+
+room
+Living Room
+It's an old living room that seems to be very warm, it's making me sleepy...
+Kitchen, Master Bedroom, Bathroom, Front Door
+Chair, Family photo
+This door requires a key
+~Gold Key
+
+item
+Family Photo
+It's an old family photo that shows 2 parents and 3 children.
+
+item
+Chair
+It's a chair. It's literally just a chair, what could possibly be special about this?
+False
+None
+None
+Bottom Chair
+
+item
+Bottom Chair
+The bottom of the chair has the numbers "2-3" on it.
+
+room
+Bathroom
+Another nasty bathroom, nice.
+Living Room
+Cabinet, Mirror, Locked box
+
+item
+Cabinet
+An old cabinet.
+False
+I can probably get this door open, should I try?
+Yes
+Inside Cabinet
+
+item
+Inside Cabinet
+Opening the cabinet I can see something engraved in the door. It says "1-9".
+
+item
+Mirror
+It's a mirror that finally isn't destroyed! Unfortunately, it does have something scratched into it. It says "3-6".
+
+item
+Locked box
+An old dark stained wooden box with brass hinges and a big combination lock holding it closed.
+False
+Needs three numbers to unlock, I'll have to look around.
+936
+Front Door Key
+
+item
+Front Door Key
+It's the key to the front door!
+True
+
+room
+Kitchen
+It's a kithcen...
+Living Room
+Knife, Table
+
+item
+Knife
+It's a regular butcher knife, nothing to see here.
+
+item
+Table
+An old wooden table that has seen many years of use.
+
+end room
+Front Door
+An old wooden door that is too sturdy to force open.
+The front door requires a key!
+~Front Door Key
+
+# End line
